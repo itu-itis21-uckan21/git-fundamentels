@@ -1,1 +1,3 @@
 # git-fundamentels
+
+MODIFIED BY MEHMET DENİZ UÇKAN AT 3.11.2022 16.50
